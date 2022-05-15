@@ -8,5 +8,5 @@ if a * b > c:
 elif a * b < c:
     print("wrong")
 elif a * b == c :
- print("correct")
+    print("correct")
 print(d)
